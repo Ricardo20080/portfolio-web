@@ -22,3 +22,6 @@ Clone este repositório, abra a pasta e execute o arquivo `index.html` no navega
 ├── README.md
 ├── index.html
 └── style.css
+
+## Autor
+Ricardo Linhares Borges - [@Ricardo20080](https://github.com/Ricardo20080)
